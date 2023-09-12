@@ -1,0 +1,15 @@
+C:\Users\ILYA\Desktop\Lection3\Задачи Лекции\bin\Debug\net6.0\Задачи Лекции.exe
+C:\Users\ILYA\Desktop\Lection3\Задачи Лекции\bin\Debug\net6.0\Задачи Лекции.deps.json
+C:\Users\ILYA\Desktop\Lection3\Задачи Лекции\bin\Debug\net6.0\Задачи Лекции.runtimeconfig.json
+C:\Users\ILYA\Desktop\Lection3\Задачи Лекции\bin\Debug\net6.0\Задачи Лекции.dll
+C:\Users\ILYA\Desktop\Lection3\Задачи Лекции\bin\Debug\net6.0\Задачи Лекции.pdb
+C:\Users\ILYA\Desktop\Lection3\Задачи Лекции\obj\Debug\net6.0\Задачи Лекции.csproj.AssemblyReference.cache
+C:\Users\ILYA\Desktop\Lection3\Задачи Лекции\obj\Debug\net6.0\Задачи Лекции.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ILYA\Desktop\Lection3\Задачи Лекции\obj\Debug\net6.0\Задачи Лекции.AssemblyInfoInputs.cache
+C:\Users\ILYA\Desktop\Lection3\Задачи Лекции\obj\Debug\net6.0\Задачи Лекции.AssemblyInfo.cs
+C:\Users\ILYA\Desktop\Lection3\Задачи Лекции\obj\Debug\net6.0\Задачи Лекции.csproj.CoreCompileInputs.cache
+C:\Users\ILYA\Desktop\Lection3\Задачи Лекции\obj\Debug\net6.0\Задачи Лекции.dll
+C:\Users\ILYA\Desktop\Lection3\Задачи Лекции\obj\Debug\net6.0\refint\Задачи Лекции.dll
+C:\Users\ILYA\Desktop\Lection3\Задачи Лекции\obj\Debug\net6.0\Задачи Лекции.pdb
+C:\Users\ILYA\Desktop\Lection3\Задачи Лекции\obj\Debug\net6.0\Задачи Лекции.genruntimeconfig.cache
+C:\Users\ILYA\Desktop\Lection3\Задачи Лекции\obj\Debug\net6.0\ref\Задачи Лекции.dll
